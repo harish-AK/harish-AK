@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harish-AK
-- 👀 I’m interested in programming languages like python,r,js and C
+- 👀 I’m interested in programming languages like python,r and kotlin for app development
 - 🌱 I’m currently learning java script,fastapi,frontend and backend development
 - 📫 How to reach me ? here is my mail id harishharish7475@gmail.com
 
