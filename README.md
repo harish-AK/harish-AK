@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harish-AK
-- 👀 I’m interested in programming languages like python,r and kotlin for app development
-- 🌱 I’m currently learning app development, machine learning
+- 🌱 I’m currently learning about airtificial intelligence and machine learning
 - 📫 How to reach me ? here is my mail id harishharish7475@gmail.com
 
 <!---
