@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm just a normal kid who loves to build AI models.<br>Here is my portfolio - **https://harish-ak.github.io/Portfolio/**.<br><br>
+Checkout my portfolio - **https://harish-ak.github.io/Portfolio/**.<br><br>
 Reach me at **harishak1607@gmail.com**
 
 
