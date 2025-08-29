@@ -1,5 +1,3 @@
-# 💫 About Me:
-Checkout my portfolio - **https://harish-ak.github.io/Portfolio/**.<br><br>
 Reach me at **harishak1607@gmail.com**
 
 
